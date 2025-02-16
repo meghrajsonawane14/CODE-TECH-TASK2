@@ -12,3 +12,8 @@ Develop a script that reads data from a file,analyzes it,and generates a formatt
 A script and a Sample report.
 
 technologies:Python ,FPDF or REPORTLAB Libraries.
+![Screenshot 2025-02-16 155451](https://github.com/user-attachments/assets/a8b57691-779d-42ab-91a3-b586dec8a3d6)
+
+Uploading Task2 (1) (1).mp4…
+
+
